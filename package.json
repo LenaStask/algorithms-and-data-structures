@@ -1,0 +1,24 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions for common algorithms and data structures implemented in JavaScript.   The goal of this project is to strengthen problem-solving skills and prepare for technical interviews.",
+  "homepage": "https://github.com/LenaStask/algorithms-and-data-structures#readme",
+  "bugs": {
+    "url": "https://github.com/LenaStask/algorithms-and-data-structures/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenaStask/algorithms-and-data-structures.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
